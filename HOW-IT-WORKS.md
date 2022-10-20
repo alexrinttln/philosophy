@@ -10,7 +10,7 @@ This is how GitHub repositories and the _Discussions_ tab can used as [Content M
 GitHub has a nice repository permission-based system and it also has a collaborative feature called _Discussions_ (see [Discussions Quickstart](https://docs.github.com/en/discussions/quickstart)).
 
 - A repository have unlimited amount of collaborators and admins.
-- Anyone who has a GitHub account can open an discussion but [they can't add _Announcements_ category](https://github.blog/changelog/2021-05-18-github-discussions-labels-and-announcements-category-format/) without an admin permission (to avoid spamming or processing of [untrusted data](https://owasp.org/www-community/Injection_Theory)).
+- Anyone who has a GitHub account can open an discussion but [they can't add _Announcements_ category](https://github.blog/changelog/2021-05-18-github-discussions-labels-and-announcements-category-format/) without an admin permission (useful in a blog to avoid spamming or processing of [untrusted data](https://owasp.org/www-community/Injection_Theory)).
 - Some _Discussion_ features:
   - Have an author and can have partipants (those who are commenting/sharing feedback in the discussion).
   - Have multiple labels/tags.

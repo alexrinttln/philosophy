@@ -22,6 +22,6 @@ To delete posts just click on the right bottom button:
 
 ![image](https://user-images.githubusercontent.com/51419598/197010505-83b87586-6f31-4076-a330-f4d99f3d1f5f.png)
 
-### How it works
+### GitHub as CMS
 
-If you want to know how the GitHub can be used as CMS, seet the [HOW-IT-WORKS.md](/HOW-IT-WORKS.md) file.
+If you want to know how the GitHub can be used as CMS, seet the [GitHub as CMS.md](/GitHub as CMS.md) file.

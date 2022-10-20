@@ -1,16 +1,18 @@
-## How to contribute
+### How to contribute
 
-How to contribute if you are an external collaborator, that is, found this repo randomly or you're particularly invited.
+In this repository we accept posts from anyone, but only admins can publish posts without review.
+
+See the below sections to see how to contribute as external collaborator or as admin.
 
 ### As outside collaborator
 
-To submit a new post: if you have no write access to this repository then you can just create a new discussion and assign the `Submitted` or `Draft` category depending on your post state.
+You can just create a new discussion and assign the `Submitted` or `Draft` category depending on your post state.
 
-To delete a post: If you want to delete your post, this is not possible (by GitHub natively), see:
+To delete a post: If you want to delete your post, this is not possible (by GitHub natively), see (there's no delete button):
 
 ![image](https://user-images.githubusercontent.com/51419598/197005659-0113d5b1-3bd2-4a71-9cd9-4d9f4379a7fe.png)
 
-But we've created a GitHub bot that allows you to delete your post by typing `DELETE MY POST` into the comments.
+But we've created a GitHub bot that allows you to delete your post by typing `DELETE MY POST` into the comments (not working yet).
 
 ### As maintainer or admin
 
@@ -20,6 +22,6 @@ To delete posts just click on the right bottom button:
 
 ![image](https://user-images.githubusercontent.com/51419598/197010505-83b87586-6f31-4076-a330-f4d99f3d1f5f.png)
 
-## How it works
+### How it works
 
-See [HOW-IT-WORKS.md](/HOW-IT-WORKS.md).
+If you want to know how the GitHub can be used as CMS, seet the [HOW-IT-WORKS.md](/HOW-IT-WORKS.md) file.

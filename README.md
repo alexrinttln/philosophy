@@ -25,3 +25,20 @@ To delete posts just click on the right bottom button:
 ### GitHub as CMS
 
 If you want to know how the GitHub can be used as CMS, see the [GitHub as CMS.md](/GitHub%20as%20CMS.md) file.
+
+<br />
+
+<samp>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2021-present, Alex Rintt.</sub>
+</p>
+<p align="center">Shared Storage <a href="https://github.com/alexrintt/shared-storage/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51419598/161439601-fc228a0d-d09d-4dbb-b5a3-ebc5dbcf9f46.png" width="35" />
+</p>
+  
+</samp>

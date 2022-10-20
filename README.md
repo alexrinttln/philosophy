@@ -24,4 +24,4 @@ To delete posts just click on the right bottom button:
 
 ### GitHub as CMS
 
-If you want to know how the GitHub can be used as CMS, seet the [GitHub as CMS.md](/GitHub%20as%20CMS.md) file.
+If you want to know how the GitHub can be used as CMS, see the [GitHub as CMS.md](/GitHub%20as%20CMS.md) file.

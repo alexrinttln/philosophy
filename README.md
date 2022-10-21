@@ -12,7 +12,9 @@ To delete a post: If you want to delete your post, this is not possible (by GitH
 
 ![image](https://user-images.githubusercontent.com/51419598/197005659-0113d5b1-3bd2-4a71-9cd9-4d9f4379a7fe.png)
 
-But we've created a GitHub bot that allows you to delete your post by typing `DELETE MY POST` into the comments (not working yet).
+But we've created a GitHub bot that allows you to delete your post by typing `DELETE MY POST <Discussion Title>` into the comments (The discussion title provided here must match exactly the discussion title provided when creating it).
+
+If you don't wanna delete, just change the discussion category to `Archived` instead.
 
 ### As maintainer or admin
 

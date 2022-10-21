@@ -1,3 +1,11 @@
+## What is it
+
+This is a Content Management System built on top of GitHub API. Too see how it works more broadly take a look at [GitHub as CMS.md](/GitHub%20as%20CMS.md) file.
+
+But this repository in specific is the CMS behind my blog that will be soon available at https://alexrintt.io.
+
+If you wanna contribute by posting something, take a look at [How to contribute](#how-to-contribute).
+
 ## How to contribute
 
 In this repository we accept posts from anyone, but only admins can publish posts without review.
@@ -23,10 +31,6 @@ Since you're a maintainer you've access to [Announcements categories](https://gi
 To delete posts just click on the right bottom button:
 
 ![image](https://user-images.githubusercontent.com/51419598/197010505-83b87586-6f31-4076-a330-f4d99f3d1f5f.png)
-
-## GitHub as CMS
-
-If you want to know how the GitHub can be used as CMS, see the [GitHub as CMS.md](/GitHub%20as%20CMS.md) file.
 
 <br />
 

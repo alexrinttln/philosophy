@@ -1,10 +1,10 @@
-### How to contribute
+## How to contribute
 
 In this repository we accept posts from anyone, but only admins can publish posts without review.
 
 See the below sections to see how to contribute as external collaborator or as admin.
 
-### As outside collaborator
+## As outside collaborator
 
 You can just create a new discussion and assign the `Submitted` or `Draft` category depending on your post state.
 
@@ -16,7 +16,7 @@ But we've created a GitHub bot that allows you to delete your post by typing `DE
 
 If you don't wanna delete, just change the discussion category to `Archived` instead.
 
-### As maintainer or admin
+## As maintainer or admin
 
 Since you're a maintainer you've access to [Announcements categories](https://github.blog/changelog/2021-05-18-github-discussions-labels-and-announcements-category-format/), so just add your own post the `Published` category if it's complete or `Draft` if it's still in progress.
 
@@ -24,7 +24,7 @@ To delete posts just click on the right bottom button:
 
 ![image](https://user-images.githubusercontent.com/51419598/197010505-83b87586-6f31-4076-a330-f4d99f3d1f5f.png)
 
-### GitHub as CMS
+## GitHub as CMS
 
 If you want to know how the GitHub can be used as CMS, see the [GitHub as CMS.md](/GitHub%20as%20CMS.md) file.
 

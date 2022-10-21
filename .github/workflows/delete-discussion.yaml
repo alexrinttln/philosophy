@@ -1,0 +1,26 @@
+name: Delete Discussion from outside collaborators
+on:
+  discussion_comment: 
+    types: [created]
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    if: >
+      (github.event_name == 'discussion_comment') && 
+      (github.event.action == 'created') &&
+      (github.event.comment.user.id == github.event.discussion.user.id) &&
+      (github.event.comment.body == format('{0}{1}', 'DELETE MY POST ', github.event.discussion.title))
+    steps:
+      - name: Delete discussion through GitHub GraphQL API
+        uses: octokit/graphql-action@v2.2.1
+        with:
+          query: |
+            mutation DeleteDiscussion($discussionid: ID!) {
+              deleteDiscussion(input: { id: $discussionid }) {
+                clientMutationId
+              }
+            }
+          discussionid: ${{ github.event.discussion.node_id }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.CUSTOM_GH_TOKEN }}

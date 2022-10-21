@@ -1,11 +1,10 @@
-
-### How GitHub repositories and discussions can serve as CMS
+## How GitHub repositories and discussions can serve as CMS
 
 > **Note** TL;DR: Read this only if you want to know how it works, but this not required to contribute to this repository specifically.
 
 This is how GitHub repositories and the _Discussions_ tab can used as [Content Management System](https://en.wikipedia.org/wiki/Content_management_system)s.
 
-### A brief intro into the GitHub discussions and repository system
+## A brief intro into the GitHub discussions and repository system
 
 GitHub has a nice repository permission-based system and it also has a collaborative feature called _Discussions_ (see [Discussions Quickstart](https://docs.github.com/en/discussions/quickstart)).
 
@@ -20,11 +19,11 @@ GitHub has a nice repository permission-based system and it also has a collabora
 
 If we replace _repository_ with _project_ and _discussion_ with _blog post_ we've a collaborative CMS that is based on your GitHub account.
 
-### GitHub repository permission-system
+## GitHub repository permission-system
 
 These permissions can be added through the _Settings -> Collaborators -> Add people_.
 
-#### Basic _personal accounts_ repository permissions
+### Basic _personal accounts_ repository permissions
 
 These are the permissions available on repositories owned by personal GitHub accounts.
 
@@ -32,7 +31,7 @@ These are the permissions available on repositories owned by personal GitHub acc
 - **Collaborator**: can pull (read) the contents of the repository and push (write) changes to the repository, but they do not have admin permissions as the _Owner_ does, so they can't modify repo settings, add other collaborators or even make use of _Announcements_ discussion category.
 - **Owner**: full-access, the repository owner, can not be shared with another personal account.
 
-#### Basic _organization_ repository permissions
+### Basic _organization_ repository permissions
 
 These roles are available to repositories owned by organizations.
 
@@ -41,7 +40,7 @@ These roles are available to repositories owned by organizations.
 - **Maintain**: can do anything in the repository except by adding other maintainers and modifying repository settings (deleting, making public or private, etc.).
 - **Admin**: full-access.
 
-### Lets convert it to a blog 
+## Lets convert it to a blog 
 
 But firstly lets define some high-level requirements:
 

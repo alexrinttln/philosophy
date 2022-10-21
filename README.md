@@ -1,6 +1,6 @@
 ## What is it
 
-This is a Content Management System built on top of GitHub API. Too see how it works more broadly take a look at [GitHub as CMS.md](/GitHub%20as%20CMS.md) file.
+This is a Content Management System built on top of GitHub API. Too see how it works more broadly take a look at [alexrinttln/github-as-cms](https://github.com/alexrinttln/github-as-cms) repository.
 
 But this repository in specific is the CMS behind my blog that will be soon available at https://alexrintt.io.
 

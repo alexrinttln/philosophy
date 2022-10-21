@@ -4,7 +4,7 @@ on:
     types: [created]
 
 jobs:
-  job1:
+  delete-discussion:
     runs-on: ubuntu-latest
     if: >
       (github.event_name == 'discussion_comment') && 

@@ -34,11 +34,8 @@ If you want to know how the GitHub can be used as CMS, see the [GitHub as CMS.md
   Open Source
 </h2>
 <p align="center">
-  <sub>Copyright © 2021-present, Alex Rintt.</sub>
+  <sub>Copyright © 2022-present, Alex Rintt.</sub>
 </p>
-<p align="center">Shared Storage <a href="https://github.com/alexrintt/shared-storage/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/51419598/161439601-fc228a0d-d09d-4dbb-b5a3-ebc5dbcf9f46.png" width="35" />
-</p>
+<p align="center">Alex Rintt Blog CMS <a href="/LICENSE.md">is MIT licensed 💖</a></p>
   
 </samp>
